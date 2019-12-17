@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Products Rest Consume</string>
+    <string name="login">Login</string>
+    <string name="password">Password</string>
+    <string name="email">E-mail</string>
+    <string name="name">Name</string>
+    <string name="description">Description</string>
+    <string name="product_image">Product Image</string>
+    <string name="price">Price</string>
+    <string name="real_symbol">R$</string>
+    <string name="register">Register</string>
+    <string name="new_user">New User</string>
+    <string name="sign_up">Sign up</string>
+    <string name="phone">Phone</string>
+    <string name="products">Products</string>
+    <string name="new_product">New Product</string>
+    <string name="url_image">URL Image</string>
+    <string name="save">Save</string>
+</resources>
